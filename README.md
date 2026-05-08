@@ -1,6 +1,4 @@
-# telegram-login-uiux-redesign
-# Telegram Login / Onboarding UX & UI Redesign
-
+# telegram-login-uiux-redes
 ## Project Overview
 This project focuses on improving the user experience and visual design of the Telegram Login / Onboarding screen.
 
